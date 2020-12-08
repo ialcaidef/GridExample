@@ -7,9 +7,15 @@ Para poder utilizarlo, previamente habremos incrustrado del framework de Bootstr
 
 ejecutandolo desde una ventana de comandos situados en la carpeta del proyecto.
 
-El grid es responsive lo que nos permite cambiar el tamaño y que se mantenga la estructura
+El grid es responsive lo que nos permite cambiar el tamaño y que se mantenga la estructura.
+
+A conitnuacion se muestra la imagen con el navegador maximizado
 
 ![Imagen maximizada](https://github.com/ialcaidef/GridExample/blob/master/grid%20images/expand.png)
+
+Y ahora redimensionado
+
+![Imagen redimensionada](https://github.com/ialcaidef/GridExample/blob/master/grid%20images/collapse.png)
 
 ~~~
 <head>
