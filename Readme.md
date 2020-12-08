@@ -1,11 +1,15 @@
-# C�mo usar el grid de Bootstrap
+# Cómo usar el grid de Bootstrap
 
 En este ejemplo se muestran los resultado de una liguilla de ajedrez utilizando para ello el grid de Bootstrap.
 Para poder utilizarlo, previamente habremos incrustrado del framework de Bootstrap en el proyecto mediante el comando
 
         mpm install
 
-ejecutandolo desde una ventana de comandos situados en la carpeta del proyecto
+ejecutandolo desde una ventana de comandos situados en la carpeta del proyecto.
+
+El grid es responsive lo que nos permite cambiar el tamaño y que se mantenga la estructura
+
+
 
 ~~~
 <head>
