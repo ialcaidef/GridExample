@@ -15,7 +15,7 @@ A conitnuacion se muestra la imagen con el navegador maximizado
 
 Y ahora redimensionado
 
-![Imagen redimensionada](https://github.com/ialcaidef/GridExample/blob/master/grid%20images/collapse.png)
+![Imagen redimensionada](https://github.com/ialcaidef/GridExample/blob/master/grid%20images/colapse.png)
 
 ~~~
 <head>
