@@ -9,7 +9,7 @@ ejecutandolo desde una ventana de comandos situados en la carpeta del proyecto.
 
 El grid es responsive lo que nos permite cambiar el tamaño y que se mantenga la estructura
 
-https://github.com/ialcaidef/GridExample/blob/master/grid%20images/expand.png
+![Imagen maximizada](https://github.com/ialcaidef/GridExample/blob/master/grid%20images/expand.png)
 
 ~~~
 <head>
