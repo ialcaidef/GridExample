@@ -13,7 +13,7 @@ A conitnuacion se muestra la imagen con el navegador maximizado
 
 ![Imagen maximizada](https://github.com/ialcaidef/GridExample/blob/master/grid%20images/expand.png)
 
-Y ahora redimensionado
+Y ahora redimensionada
 
 ![Imagen redimensionada](https://github.com/ialcaidef/GridExample/blob/master/grid%20images/colapse.png)
 
